@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fish381
-- 👀 I’m interested in js 
-- 🌱 I’m currently learning js 
-- 💞️ I’m looking to collaborate on nothing at the moment 
+- 👀 I’m interested in my learning at the moment 
+- 🌱 I’m currently learning js, html and python 
+- 💞️ I’m looking to collaborate on "nothing at the moment" (subject to change) 
 - 📫 How to reach me...
 
 <!---
